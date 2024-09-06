@@ -62,7 +62,7 @@ cd PDF-Generation-with-TCPDF
 
 2. **Access the HTML Page**: Open your web browser and navigate to:
    ```
-   http://localhost/TCPDF/index.html
+   http://localhost/PDF-Generation-with-TCPDF
    ```
 
 3. **Generate the PDF**: Click the "Download PDF" button on the HTML page. This will trigger the `generate_pdf.php` script and download the PDF with the content and logo.
